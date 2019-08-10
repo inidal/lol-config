@@ -1,7 +1,11 @@
 Config:
-    PersistedSettings.json
-    game.cfg
-    input.ini
+
+* PersistedSettings.json
+* game.cfg
+* input.ini
 
 DATA > CFG > defaults:
-    SettingsToPersist.json
+
+* SettingsToPersist.json
+
+Mark all files as read only.
