@@ -1,13 +1,10 @@
 {
     "description": "The settings in this file are persisted server-side. This file is generated automatically. Editing it is not recommended. Modify SettingsToPersist.json to specify which settings are persisted.",
-    "files": [
-        {
+    "files": [{
             "name": "Game.cfg",
-            "sections": [
-                {
+            "sections": [{
                     "name": "Chat",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "ChatX",
                             "value": "0"
                         },
@@ -27,17 +24,14 @@
                 },
                 {
                     "name": "ColorPalette",
-                    "settings": [
-                        {
-                            "name": "ColorPalette",
-                            "value": "1"
-                        }
-                    ]
+                    "settings": [{
+                        "name": "ColorPalette",
+                        "value": "1"
+                    }]
                 },
                 {
                     "name": "FloatingText",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "Absorbed_Enabled",
                             "value": "1"
                         },
@@ -185,8 +179,7 @@
                 },
                 {
                     "name": "General",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "AutoAcquireTarget",
                             "value": "0"
                         },
@@ -246,8 +239,7 @@
                 },
                 {
                     "name": "HUD",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "AutoDisplayTarget",
                             "value": "1"
                         },
@@ -455,8 +447,7 @@
                 },
                 {
                     "name": "LossOfControl",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "LossOfControlEnabled",
                             "value": "1"
                         },
@@ -468,17 +459,14 @@
                 },
                 {
                     "name": "Performance",
-                    "settings": [
-                        {
-                            "name": "EnableHUDAnimations",
-                            "value": "0"
-                        }
-                    ]
+                    "settings": [{
+                        "name": "EnableHUDAnimations",
+                        "value": "0"
+                    }]
                 },
                 {
                     "name": "Voice",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "ShowVoiceChatHalos",
                             "value": "1"
                         },
@@ -490,8 +478,7 @@
                 },
                 {
                     "name": "Volume",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "AmbienceMute",
                             "value": "0"
                         },
@@ -553,11 +540,9 @@
         },
         {
             "name": "Input.ini",
-            "sections": [
-                {
+            "sections": [{
                     "name": "GameEvents",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "evntPlayerPing",
                             "value": "[Alt][Button 1]"
                         },
@@ -591,19 +576,19 @@
                         },
                         {
                             "name": "evtCastSpell1",
-                            "value": "[q]"
+                            "value": "[r]"
                         },
                         {
                             "name": "evtCastSpell2",
-                            "value": "[w]"
-                        },
-                        {
-                            "name": "evtCastSpell3",
                             "value": "[e]"
                         },
                         {
+                            "name": "evtCastSpell3",
+                            "value": "[w]"
+                        },
+                        {
                             "name": "evtCastSpell4",
-                            "value": "[r]"
+                            "value": "[5]"
                         },
                         {
                             "name": "evtChampMasteryDisplay",
@@ -747,7 +732,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[x],"
+                            "value": "[n],"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
@@ -1127,7 +1112,7 @@
                         },
                         {
                             "name": "evtUseItem1",
-                            "value": "[1]"
+                            "value": "[q]"
                         },
                         {
                             "name": "evtUseItem2",
@@ -1161,8 +1146,7 @@
                 },
                 {
                     "name": "HUDEvents",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "evtHoldShowScoreBoard",
                             "value": "[Tab]"
                         },
@@ -1182,17 +1166,14 @@
                 },
                 {
                     "name": "MouseSettings",
-                    "settings": [
-                        {
-                            "name": "RollerButtonSpeed",
-                            "value": "0"
-                        }
-                    ]
+                    "settings": [{
+                        "name": "RollerButtonSpeed",
+                        "value": "0"
+                    }]
                 },
                 {
                     "name": "Quickbinds",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "evtCastAvatarSpell1smart",
                             "value": "1"
                         },
@@ -1248,8 +1229,7 @@
                 },
                 {
                     "name": "ShopEvents",
-                    "settings": [
-                        {
+                    "settings": [{
                             "name": "evtShopFocusSearch",
                             "value": "[Ctrl][l]"
                         },
