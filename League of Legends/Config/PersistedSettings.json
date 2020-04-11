@@ -832,7 +832,7 @@
                         },
                         {
                             "name": "evtSelfCastItem1",
-                            "value": "[Alt][1]"
+                            "value": "[Alt][q]"
                         },
                         {
                             "name": "evtSelfCastItem2",
@@ -844,7 +844,7 @@
                         },
                         {
                             "name": "evtSelfCastItem4",
-                            "value": "[Alt][5]"
+                            "value": "[Alt][1]"
                         },
                         {
                             "name": "evtSelfCastItem5",
@@ -968,7 +968,7 @@
                         },
                         {
                             "name": "evtSmartCastWithIndicatorItem4",
-                            "value": "[5]"
+                            "value": "[1]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorItem5",
